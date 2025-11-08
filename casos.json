@@ -1,0 +1,18 @@
+[
+  {
+    "modulo": "Módulo 5 – Personalidad y Psicopatología",
+    "titulo": "Desinhibición orbitofrontal",
+    "vigneta": "Varón 35 a., desinhibido y agresivo verbal. RM: lesión OFC.",
+    "pregunta": "Funciones alteradas y manifestaciones esperadas.",
+    "respuesta_guia": [
+      "Inhibición de respuestas; valoración de consecuencias",
+      "Desinhibición social, impulsividad, pobre empatía"
+    ],
+    "opciones": [
+      "Déficit de memoria semántica",
+      "Desinhibición y pobre control de impulsos",
+      "Apraxia constructiva"
+    ],
+    "correcta": 1
+  }
+]
